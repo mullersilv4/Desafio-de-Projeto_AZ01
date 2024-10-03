@@ -16,6 +16,7 @@ No lab de Hoje, criamos uma Maquina Virtual (VM), tambem fizemos uma conta de Ar
 LAB01 
  - [Datacenters do Azure](https://datacenters.microsoft.com/globe/explore)
  - [Microsoft Azure](https://portal.azure.com/#home)
+   
 LAB02 
  - [StorageExplore](https://azure.microsoft.com/pt-br/products/storage/storage-explorer)
  - [AZcopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)
