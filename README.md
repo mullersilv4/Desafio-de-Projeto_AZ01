@@ -9,8 +9,10 @@ Hoje aprendemos um pouco mais sobre a interface grafica do Microsoft Azure
 Criamos um Laboratorio criando um Grupo de Recuros e adicionado uma Vnet (rede virtual) dentro desse grupo de recursos. 
 
 exploramos tambem um pouco das localidades onde se encontram os datacenters e algumas caracteristicas 
+
+
 LAB------02 
-No lab de Hoje, criamos uma Maquina Virtual (VM), tambem fizemos uma conta de Armazenamento (a mesma deve ter um nome globalmente único) , e aprendemoz a transferir arquivos para dentro desse storage atravéz do método AZcopy e tambem pelo StorageExplore.
+No lab de Hoje, criamos uma Maquina Virtual (VM), tambem fizemos uma conta de Armazenamento (a mesma deve ter um nome globalmente único) , e aprendemos a transferir arquivos para dentro desse storage atravéz do método Blob utilizando o AZcopy  e também utilizando o StorageExplore.
 
 ## Referências
 LAB01 
