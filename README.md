@@ -14,6 +14,10 @@ exploramos tambem um pouco das localidades onde se encontram os datacenters e al
 LAB------02 
 No lab de Hoje, criamos uma Maquina Virtual (VM), tambem fizemos uma conta de Armazenamento (a mesma deve ter um nome globalmente único) , e aprendemos a transferir arquivos para dentro desse storage atravéz do método Blob utilizando o AZcopy  e também utilizando o StorageExplore.
 
+LAB------03
+No Lab 03 aprendemos sobre o microsoft entra ID, onde podemos aprender a criar outros usuários e atribuir suas permissões, aprendemos a dar permissões apenas para um grupo de usuários
+Falamos tambem sobre o Defender for Cloud, uma aplicação nativa de Nuvem, multicloud, que recomenda validações de segurança para sua estrutura, auxiliando em boas praticas de segurança e organização. 
+
 ## Referências
 LAB01 
  - [Datacenters do Azure](https://datacenters.microsoft.com/globe/explore)
@@ -22,3 +26,7 @@ LAB01
 LAB02 
  - [StorageExplore](https://azure.microsoft.com/pt-br/products/storage/storage-explorer)
  - [AZcopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)
+
+LAB03
+ - [microsoft entra id](https://www.microsoft.com/pt-br/security/business/identity-access/microsoft-entra-id)
+ - [microsoft defender](https://learn.microsoft.com/pt-br/azure/defender-for-cloud/defender-for-cloud-introduction)
