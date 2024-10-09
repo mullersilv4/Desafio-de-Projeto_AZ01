@@ -71,11 +71,11 @@ Atenção: É extremamente importante que as entradas e saídas sejam exatamente
 
 # Código 
 
-# Recebe a Entrada do usuário e armazena na variável "entrada"
-entrada = input()
+    # Recebe a Entrada do usuário e armazena na variável "entrada"
+     entrada = input()
 
-# Função responsável por receber um componente e retornar sua respectiva descrição.
-def identificar_componente(componente):
+     # Função responsável por receber um componente e retornar sua respectiva descrição.
+        def identificar_componente(componente):
 	if componente == "Datacenters":
 			return "Instalações físicas que abrigam servidores e outros recursos"
 			
@@ -92,5 +92,5 @@ def identificar_componente(componente):
 	elif componente == "Assinaturas":
 	    return "Estruturas hierárquicas que gerenciam múltiplas assinaturas"	    
 
-print(identificar_componente(entrada))
+    print(identificar_componente(entrada))
 
