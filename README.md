@@ -71,15 +71,15 @@ Atenção: É extremamente importante que as entradas e saídas sejam exatamente
 
 # Código 
 
-/Recebe a Entrada do usuário e armazena na variável "entrada"
+# Recebe a Entrada do usuário e armazena na variável "entrada"
 entrada = input()
 
-/Função responsável por receber um componente e retornar sua respectiva descrição.
+# Função responsável por receber um componente e retornar sua respectiva descrição.
 def identificar_componente(componente):
 	if componente == "Datacenters":
 			return "Instalações físicas que abrigam servidores e outros recursos"
 			
-	/TODO: Preencha corretamente a descrição de cada componente, considerando as condições abaixo e Saídas possíveis:		
+	# TODO: Preencha corretamente a descrição de cada componente, considerando as condições abaixo e Saídas possíveis:		
 	elif componente == "Regiões do Azure":
 	    return "Localizações geográficas onde os serviços são disponibilizados"
 	    
@@ -93,3 +93,4 @@ def identificar_componente(componente):
 	    return "Estruturas hierárquicas que gerenciam múltiplas assinaturas"	    
 
 print(identificar_componente(entrada))
+
