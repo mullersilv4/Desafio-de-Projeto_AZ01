@@ -94,3 +94,13 @@ Atenção: É extremamente importante que as entradas e saídas sejam exatamente
 
     print(identificar_componente(entrada))
 
+
+
+  Lab------05
+
+  Foi passado sobre as calculadoras de custo para calcular o custo estimado de serviços e recursos no azure, e no caso da TCO fz o calculo caso você queira migrar o seu ambiente atual para o ambiente do Azure com todos os recursos que você ja possui atualmente. 
+  abaixo estão s links das calculadoras 
+
+  ## Referências 
+  [Calculadora do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
+  [Calculadora TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco/calculator/)
