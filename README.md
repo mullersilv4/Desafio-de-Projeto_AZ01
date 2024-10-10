@@ -102,5 +102,5 @@ Atenção: É extremamente importante que as entradas e saídas sejam exatamente
   abaixo estão s links das calculadoras 
 
   ## Referências 
-  [Calculadora do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
-  [Calculadora TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco/calculator/)
+ - [Calculadora do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
+ - [Calculadora TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco/calculator/)
