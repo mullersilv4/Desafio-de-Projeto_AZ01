@@ -104,3 +104,14 @@ Atenção: É extremamente importante que as entradas e saídas sejam exatamente
   ## Referências 
  - [Calculadora do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
  - [Calculadora TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco/calculator/)
+
+Lab-----06
+
+Nesse Lab fizemos inserimos boqueios em alguns recursos utilizando o método de (delete) e o (readonly) para vermos as diferenças de um e de outro, aprendemos sobre a importância de governança com o Microsoft Purview  e padronização dos nossos recusros com o Azure Policy.
+
+## Referências 
+- [Portal de confiança do Serviço](https://servicetrust.microsoft.com/)
+- [Microsoft Purview](https://learn.microsoft.com/pt-br/purview/purview)
+  
+
+
